@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Environment variables (API keys)
+.env
+
+# SQLite / agent memory files
+memory.db
+memory.db-shm
+memory.db-wal
+
+# OS junk
+.DS_Store
+Thumbs.db
